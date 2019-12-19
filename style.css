@@ -122,16 +122,16 @@ nav {
 }
 
 .cube-1 .right {
-    background: url(images/img4.jpg) no-repeat 50% 0;
+    background: url(images/img4.JPG) no-repeat 50% 0;
     background-size: cover;
 }
 .cube-2 .right {
-    background: url(images/img4.jpg) no-repeat 50% -8vw;
+    background: url(images/img4.JPG) no-repeat 50% -8vw;
     background-size: cover;
 }
 
 .cube-3 .right {
-    background: url(images/img4.jpg) no-repeat 50% -16vw;
+    background: url(images/img4.JPG) no-repeat 50% -16vw;
     background-size: cover;
 }
 
