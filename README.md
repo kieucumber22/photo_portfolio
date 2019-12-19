@@ -1,0 +1,1 @@
+A photography portfolio website template created with HTML, CSS and Javascript. Uses flexbox for responsive navigation and has an interactive cube image gallery. Images included in the gallery were photographed by me. 
